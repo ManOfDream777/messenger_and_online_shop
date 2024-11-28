@@ -1,0 +1,55 @@
+2. Мессенджер с реальным временем
+Описание: Чат-приложение с возможностью отправки сообщений в реальном времени.
+Технологии: Python (Django/Flask), React, WebSockets, Redis (для хранения сессий), PostgresSQL.
+Функционал:
+Мгновенная отправка и получение сообщений с использованием WebSockets.
+Возможность групповых чатов.
+Управление статусом онлайн/офлайн пользователей.
+Навыки: Реализация реального времени, асинхронность, работа с WebSockets и кеширование.
+
+3. Интернет-магазин с корзиной покупок
+Описание: Полнофункциональный интернет-магазин с каталогом товаров, корзиной, оплатой.
+Технологии: Python (Django), React, Stripe (или другая система оплаты), PostgreSQL.
+Функционал:
+Система управления товарами (CRUD).
+Функционал корзины (добавление, удаление товаров, оформление заказа).
+Оплата через сторонние сервисы (например, Stripe).
+Навыки: Работа с API платежных систем, организация реляционных баз данных, клиентская валидация и отправка данных.
+
+4. Дашборд для анализа данных
+Описание: Визуализация аналитики данных (например, финансовых отчетов или данных из IoT-устройств).
+Технологии: Python (Flask/Django), React, Chart.js/D3.js, PostgreSQL.
+Функционал:
+Динамическая визуализация данных в графиках и диаграммах.
+Фильтрация данных по разным параметрам.
+Экспорт данных в разные форматы (CSV, PDF).
+Навыки: Работа с данными, их визуализация и оптимизация SQL-запросов.
+
+ENGLISH
+
+2. Messenger with real time
+Description: Chat application with possibility of sending messages in real time.
+Technologies: Python (Django/Flask), React, WebSockets, Redis (for storing sessions), PostgresSQL.
+Functionality:
+Instantly sending and receiving messages using WebSockets.
+Group chat.
+Management of online/offline status of users.
+Skills: Real time implementation, asynchronous, WebSockets and caching.
+
+3. Internet store with shopping cart
+Description: Full-functionality internet store with catalog, cart, payment.
+Technologies: Python (Django), React, Stripe (or other payment system), PostgreSQL.
+Functionality:
+Product management (CRUD).
+Shopping cart (adding, removing products, placing an order).
+Payment through third-party services (e.g. Stripe).
+Skills: Work with API payment systems, organization of relational databases, client-side validation and sending data.
+
+4. Dashboard for data analysis
+Description: Visualization of data analytics (e.g. financial reports or data from IoT devices).
+Technologies: Python (Flask/Django), React, Chart.js/D3.js, PostgreSQL.
+Functionality:
+Dynamic data visualization in graphs and diagrams.
+Filtering data by various parameters.
+Exporting data in various formats (CSV, PDF).
+Skills: Data management, data visualization and optimization of SQL queries.
